@@ -1,3 +1,4 @@
+#identifica la clase de variable
 # Define the release and runtime integer variables below:
 release_year = 1977
 runtime = 1980
