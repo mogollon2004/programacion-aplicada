@@ -1,4 +1,2 @@
-import time
-while True:
-    print("revisando el ciclo while")
-    time.sleep(1)
+print("Hola Mundo")
+print("Hola")
