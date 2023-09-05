@@ -1,4 +1,4 @@
-#El codigo muestra como se realiza una operacion de radicacion en diferentes bases
+#El codigo muestra como se realiza una operacion de radicacion y mostrarala.
 # 2 to the 10th power, or 1024
 print(2 ** 10)
  
