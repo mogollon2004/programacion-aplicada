@@ -11,7 +11,7 @@ for i in range(0,10000):
               
     if conta == 2:
         print(f'{i} es un primo')
-        print("\n")
+        
         
 fin = time.time()
 print("t = ", (fin - inicio)*1000)
