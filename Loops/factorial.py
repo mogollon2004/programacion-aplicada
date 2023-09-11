@@ -1,3 +1,4 @@
+#El programa permite entrar un numero, evaluar si es positivo o negativo a travez de un ciclo si, entonces y a partir de alli calcular su factorial con un ciclo for.
 while True:
 
     value = int(input("Enter a positive integer value: "))
