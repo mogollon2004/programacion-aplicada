@@ -1,3 +1,4 @@
+#El codigo permite entrar dos numeros cualquieras al programa, este le da la suma de los numeros, evalua su valor si son iguales o diferentes, y el tipo de numero que son.
 a = input("Enter a number: ")
 a = int(a)
 b = input("Enter b number: ")
