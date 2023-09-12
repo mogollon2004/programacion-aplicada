@@ -6,7 +6,7 @@ my_lista = ['Rojo', 'Azul', 'Amarillo', 'Naranja', 'Violeta', 'Verde']
 for i in range (0,len(my_lista)-1):
     print(my_lista[i])
     time.sleep(1)
-    """"
+    
 print(type(my_lista))
 print(my_lista[3])
 print("my_lista size: ", len(my_lista))
@@ -103,4 +103,3 @@ print("Nombre: ", nombre, " - Dia:", dia, " - Mes: ", mes, "- Año: ", año)
 #Convertir una tupla en una lista
 my_lista2=list(my_tupla)
 print(my_lista2)
-"""
